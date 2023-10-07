@@ -1,13 +1,3 @@
 # SupplyChainFInance_BlockChain
 
-truffle-init-webpack
-Example webpack project with Truffle. Includes contracts, migrations, tests, user interface and webpack build pipeline.
-
-Usage
-To initialize a project with this exapmple, run truffle init webpack inside an empty directory.
-
-Building and the frontend
-First run truffle compile, then run truffle migrate to deploy the contracts onto your network of choice (default "development").
-Then run npm run dev to build the app and serve it on http://localhost:8080
-Possible upgrades
-Use the webpack hotloader to sense when contracts or javascript have been recompiled and rebuild the application. Contributions welcome!
+Supply chain is always hard to manage and requires a lot of admistrative machinery. However, when managed with smart contracts using blockchain, a lot of the paperwork is reduced. Also it leads to an increase in the transparency and helps to build an efficient Root of Trust. Supply-chain-dapp is such an implementation of a supply chain management system which uses blockchain to ensure a transparent and secure transfer of product from the manufacturer to the customer via the online e-commerce websites.
